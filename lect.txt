@@ -1,12 +1,2 @@
 test
-jk
-eads
 
-asd
-eads
-
-<<<<<<< HEAD
-wfsgb
-=======
-testline last
->>>>>>> 7be38dd6b3a3ce3ed6d3310e221fe85f3492af9c
