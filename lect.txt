@@ -1,9 +1,7 @@
 test
-
-<<<<<<< HEAD
-hjk
+jk
 eads
-=======
+
 asd
 eads
->>>>>>> 38ac194c7b453bb6b26a488adebed3b6a2872cbf
+
