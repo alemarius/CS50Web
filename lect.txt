@@ -2,8 +2,11 @@ test
 jk
 eads
 
+<<<<<<< HEAD
 asd
 eads
 
 
 >>>>>>> 7be38dd6b3a3ce3ed6d3310e221fe85f3492af9c
+=======
+>>>>>>> 8a9d20f9d07640eca30a03038410c3a34d346a4c
