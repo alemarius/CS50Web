@@ -1,0 +1,27 @@
+﻿body
+{
+}
+
+
+h1{
+    color:red
+}
+
+h2{
+
+}
+#top{
+    color:green
+}
+
+#middle{
+    color:firebrick
+}
+
+.name{
+    font-weight:bold
+}
+
+.div{
+    font-style:italic
+}
