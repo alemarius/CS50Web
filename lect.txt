@@ -1,6 +1,4 @@
 test
-jk
-eads
 
 <<<<<<< HEAD
 asd
